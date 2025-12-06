@@ -1,1 +1,1 @@
-# ictib-projeck
+# ictib-project
